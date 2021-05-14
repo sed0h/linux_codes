@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-gcc-5 -g  -rdynamic CMakeFiles/test_p.dir/main.c.o  -o test_p 

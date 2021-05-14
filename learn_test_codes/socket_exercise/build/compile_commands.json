@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zgt/learn_test_codes/socket_exercise/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-5   -g   -o CMakeFiles/socket_exercise.dir/main.c.o   -c /home/zgt/learn_test_codes/socket_exercise/main.c",
+  "file": "/home/zgt/learn_test_codes/socket_exercise/main.c"
+}
+]

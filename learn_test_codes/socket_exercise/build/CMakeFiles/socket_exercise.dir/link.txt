@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-gcc-5 -g  -rdynamic CMakeFiles/socket_exercise.dir/main.c.o  -o socket_exercise 

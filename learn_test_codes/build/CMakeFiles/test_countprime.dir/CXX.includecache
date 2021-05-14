@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zgt/learn_test_codes/count_prime.cpp
+stdio.h
+/home/zgt/learn_test_codes/stdio.h
+math.h
+-
+

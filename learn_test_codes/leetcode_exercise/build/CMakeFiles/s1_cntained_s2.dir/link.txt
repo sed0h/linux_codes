@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-gcc-5 -g  -rdynamic CMakeFiles/s1_cntained_s2.dir/s1_contained_s2.c.o  -o s1_cntained_s2 

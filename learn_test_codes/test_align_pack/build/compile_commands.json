@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zgt/learn_test_codes/test_align_pack/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-5   -g   -o CMakeFiles/test_align.dir/test_align.c.o   -c /home/zgt/learn_test_codes/test_align_pack/test_align.c",
+  "file": "/home/zgt/learn_test_codes/test_align_pack/test_align.c"
+}
+]

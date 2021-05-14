@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zgt/learn_test_codes/test_function_pointer/funcs_type.h
+
+/home/zgt/learn_test_codes/test_function_pointer/test_main.c
+stdint.h
+-
+stdio.h
+-
+funcs_type.h
+/home/zgt/learn_test_codes/test_function_pointer/funcs_type.h
+

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zgt/learn_test_codes/test_printf/build",
+  "command": "/usr/bin/x86_64-linux-gnu-gcc-5   -g   -o CMakeFiles/test_p.dir/main.c.o   -c /home/zgt/learn_test_codes/test_printf/main.c",
+  "file": "/home/zgt/learn_test_codes/test_printf/main.c"
+}
+]
