@@ -1,1 +1,0 @@
-/usr/bin/x86_64-linux-gnu-gcc-5 -g  -rdynamic CMakeFiles/test_align.dir/test_align.c.o  -o test_align 

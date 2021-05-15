@@ -1,1 +1,0 @@
-/usr/bin/x86_64-linux-gnu-g++-5   -g   CMakeFiles/cmake_test.dir/main.cpp.o CMakeFiles/cmake_test.dir/file1.cpp.o  -o cmake_test  -L/home/zgt/linux_system_program/cmakeQuickStart/.. -rdynamic 

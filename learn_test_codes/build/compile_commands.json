@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/zgt/learn_test_codes/build",
-  "command": "/usr/bin/g++-5   -I/home/zgt/learn_test_codes/swap  -g   -o CMakeFiles/test_countprime.dir/count_prime.cpp.o -c /home/zgt/learn_test_codes/count_prime.cpp",
-  "file": "/home/zgt/learn_test_codes/count_prime.cpp"
-}
-]

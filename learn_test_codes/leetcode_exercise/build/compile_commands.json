@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/zgt/learn_test_codes/leetcode_exercise/build",
-  "command": "/usr/bin/x86_64-linux-gnu-gcc-5   -g   -o CMakeFiles/s1_cntained_s2.dir/s1_contained_s2.c.o   -c /home/zgt/learn_test_codes/leetcode_exercise/s1_contained_s2.c",
-  "file": "/home/zgt/learn_test_codes/leetcode_exercise/s1_contained_s2.c"
-}
-]
